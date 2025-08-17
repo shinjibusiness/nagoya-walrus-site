@@ -31,4 +31,4 @@ jobs:
           DIST: out
           EPOCHS: 2
           SUI_NETWORK: mainnet
-          WS_RESOURCES: walrus/ws-resources.json
+          WS_RESOURCES: nagoya-walrus-site/walrus/ws-resources.json
