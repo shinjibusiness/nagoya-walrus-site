@@ -32,3 +32,4 @@ jobs:
           EPOCHS: 2
           SUI_NETWORK: mainnet
           WS_RESOURCES: walrus/ws-resources.json
+          #
